@@ -5,3 +5,4 @@ Git track changes
 Creating a new branch is quick.
 Create a new branch :dev
 manage a new branch:dev
+master need to resolve a debbug.
