@@ -1,0 +1,3 @@
+/home/tta/pysot2rknn/build/CMakeFiles/rebuild_cache.dir
+/home/tta/pysot2rknn/build/CMakeFiles/edit_cache.dir
+/home/tta/pysot2rknn/build/CMakeFiles/test_rknn_lib.dir
